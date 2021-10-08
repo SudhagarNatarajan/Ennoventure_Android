@@ -1,0 +1,12 @@
+
+OPEN CV SDK Version
+ android:versionCode="4200"
+ android:versionName="4.2.0"
+
+
+Android Studio Configuration
+minSdkVersion 21
+targetSdkVersion 30
+
+compileSdkVersion 30
+buildToolsVersion "30.0.3"
